@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tech-Wizz
 - 👀 I’m interested in Automation
-- 🌱 I’m currently learning Data Base Systems
+- 🌱 I’m currently learning Compilers
 - 📫 How to reach me christensen.kruize@gmail.com
 
 <!---
