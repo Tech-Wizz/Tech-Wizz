@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tech-Wizz
 - 👀 I’m interested in Automation
-- 🌱 I’m currently learning Compilers
+- 🌱 I have my Bachelors of Computer Science
 - 📫 How to reach me christensen.kruize@gmail.com
 
 <!---
