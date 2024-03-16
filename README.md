@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tech-Wizz
-- 👀 I’m interested in Automation
+- 👀 I’m interested in Automation and App Development
 - 🌱 I have my Bachelors of Computer Science
 - 📫 How to reach me christensen.kruize@gmail.com
 
