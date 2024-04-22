@@ -52,10 +52,10 @@ You can click the Preview link to take a look at your changes.
 <h2 align='center'>STATS</h2>
 
 <p align='center'>
-    <img src="https://github-readme-stats.vercel.app/api?username=Tech-Wizz&count_private=true&show_icons=true" width="500" alt="GitHub Stats Dashboard">
+    <img src="https://github-readme-stats.vercel.app/api?username=Tech-Wizz&count_private=true&show_icons=true?theme=shadow_green" width="500" alt="GitHub Stats Dashboard">
 </p>
 <p align='center'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-Wizz" width="350" alt="Most Used Languages Dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-Wizz?theme=shadow_green" width="350" alt="Most Used Languages Dashboard">
 </p>
 
 - 👋 Hi, I’m @Tech-Wizz
