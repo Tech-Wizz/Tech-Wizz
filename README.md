@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align='center'>Hi, I'm Kruize! 👋</h1>
 
-<div align='center'><img src='https://www.kruizechristensen.com/images/KruizeChristensen.png' alt='Professional Headshot of Kruize Christensen' style='border-radius: 20px;' height='559' width='414'></div>
+<div align='center'><img src='https://www.kruizechristensen.com/images/KruizeChristensen.png' alt='Professional Headshot of Kruize Christensen' style='border-radius: 20px;' height='559' width='559'></div>
 
 <h2 align='center'>INTRO</h2>
 
@@ -51,6 +51,7 @@ You can click the Preview link to take a look at your changes.
     <a href='https://www.linkedin.com/in/kruize-christensen/' target='_blank' style='color: inherit; text-decoration: none;'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
     <a href='https://www.youtube.com/channel/UCUPhyAyXVj7udb1Ab67b_Sw' target='_blank' style='color: inherit; text-decoration: none;'><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"></a>
     <a href='https://github.com/Tech-Wizz' target='_blank' style='color: inherit; text-decoration: none;'><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"></a>
+    <a href='mailto:christensen.kruize@gmail.com?Subject=Greetings!' target='_blank' style='color: inherit; text-decoration: none;'><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
 </p>
 
 <h2 align='center'>STATS</h2>
