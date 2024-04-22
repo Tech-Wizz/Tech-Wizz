@@ -59,7 +59,3 @@ You can click the Preview link to take a look at your changes.
     <img src="https://github-readme-stats-kruizes-projects.vercel.app/api/top-langs/?username=Tech-Wizz" width="350" alt="Most Used Languages Dashboard">
 </p>
 --->
-- 👋 Hi, I’m @Tech-Wizz
-- 👀 I’m interested in Automation and App Development
-- 🌱 I have my Bachelors of Computer Science
-- 📫 How to reach me christensen.kruize@gmail.com
