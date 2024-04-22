@@ -3,7 +3,7 @@ Tech-Wizz/Tech-Wizz is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align='center'>Hi, I'm Kruize! 👋</h1>
+<h1 align='center'>Hi, I'm Kruize! 👋🏻 </h1>
 
 <div align='center'><img src='https://www.kruizechristensen.com/images/KruizeChristensen.png' alt='Professional Headshot of Kruize Christensen' style='border-radius: 20px;' height='559' width='559'></div>
 
