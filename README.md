@@ -61,9 +61,9 @@ You can click the Preview link to take a look at your changes.
 <h3 align='center'>BADGES</h3>
 <p align='center'>
     <img src="https://www.kruizechristensen.com/images/badges/active-directory-domain-services.svg" alt="Badge 1">
-    <img src="https://www.kruizechristensen.com/images/badges/active-directory-domain-services.svg" alt="Badge 2" style="width: 80px; height: 80px;">
-    <img src="https://www.kruizechristensen.com/images/badges/active-directory-domain-services.svg" alt="Badge 3" style="width: 80px; height: 80px;">
-    <img src="https://www.kruizechristensen.com/images/badges/active-directory-domain-services.svg" alt="Badge 4" style="width: 80px; height: 80px;">
+    <img src="https://www.kruizechristensen.com/images/badges/7-challenge-project-develop-branching-and-looping-structures-in-csharp.svg" alt="Badge 2" style="width: 80px; height: 80px;">
+    <img src="https://www.kruizechristensen.com/images/badges/add-logic-c-sharp-console-applications.svg" alt="Badge 3" style="width: 80px; height: 80px;">
+    <img src="https://www.kruizechristensen.com/images/badges/begin-python-coding-minecraft-makecode-azure-notebooks.svg" alt="Badge 4" style="width: 80px; height: 80px;">
 </p>
 <p align='center'>
     <img src="https://www.kruizechristensen.com/images/badges/active-directory-domain-services.svg" alt="Badge 5" style="width: 80px; height: 80px;">
