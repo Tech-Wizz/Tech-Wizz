@@ -60,7 +60,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 <h3 align='center'>BADGES</h3>
 <p align='center'>
-    <img src="https://www.kruizechristensen.com/images/badges/active-directory-domain-services.svg" alt="Badge 1" style="width: 80px; height: 80px;">
+    <img src="https://www.kruizechristensen.com/images/badges/active-directory-domain-services.svg" alt="Badge 1">
     <img src="https://www.kruizechristensen.com/images/badges/active-directory-domain-services.svg" alt="Badge 2" style="width: 80px; height: 80px;">
     <img src="https://www.kruizechristensen.com/images/badges/active-directory-domain-services.svg" alt="Badge 3" style="width: 80px; height: 80px;">
     <img src="https://www.kruizechristensen.com/images/badges/active-directory-domain-services.svg" alt="Badge 4" style="width: 80px; height: 80px;">
