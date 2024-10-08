@@ -58,4 +58,18 @@ You can click the Preview link to take a look at your changes.
 <p align='center'>
     <img src="https://github-readme-stats-kruizes-projects.vercel.app/api/top-langs/?username=Tech-Wizz" width="350" alt="Most Used Languages Dashboard">
 </p>
+<h3 align='center'>BADGES</h3>
+<p align='center'>
+    <img src="https://www.kruizechristensen.com/images/badges/active-directory-domain-services.svg" alt="Badge 1" style="width: 100px; height: 100px;">
+    <img src="https://www.kruizechristensen.com/images/badges/active-directory-domain-services.svg" alt="Badge 2" style="width: 100px; height: 100px;">
+    <img src="https://www.kruizechristensen.com/images/badges/active-directory-domain-services.svg" alt="Badge 3" style="width: 100px; height: 100px;">
+    <img src="https://www.kruizechristensen.com/images/badges/active-directory-domain-services.svg" alt="Badge 4" style="width: 100px; height: 100px;">
+</p>
+<p align='center'>
+    <img src="https://www.kruizechristensen.com/images/badges/active-directory-domain-services.svg" alt="Badge 5" style="width: 100px; height: 100px;">
+    <img src="https://www.kruizechristensen.com/images/badges/active-directory-domain-services.svg" alt="Badge 6" style="width: 100px; height: 100px;">
+    <img src="https://www.kruizechristensen.com/images/badges/active-directory-domain-services.svg" alt="Badge 7" style="width: 100px; height: 100px;">
+    <img src="https://www.kruizechristensen.com/images/badges/active-directory-domain-services.svg" alt="Badge 8" style="width: 100px; height: 100px;">
+</p>
+
 --->
