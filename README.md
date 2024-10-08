@@ -55,18 +55,32 @@ You can click the Preview link to take a look at your changes.
     <img src="https://github-readme-stats-kruizes-projects.vercel.app/api?username=Tech-Wizz&count_private=true&show_icons=true?theme=shadow_green" width="500" alt="GitHub Stats Dashboard">
 </p>
 
-<h3 align='center'>BADGES</h3>
+<h2 align='center'>BADGES</h2>
+<h3 align='center'>Learning Paths</h3>
 <p align='center'>
-    <img src="https://www.kruizechristensen.com/images/badges/active-directory-domain-services.svg" alt="Badge 1">
-    <img src="https://www.kruizechristensen.com/images/badges/7-challenge-project-develop-branching-and-looping-structures-in-csharp.svg" alt="Badge 2" style="width: 80px; height: 80px;">
-    <img src="https://www.kruizechristensen.com/images/badges/add-logic-c-sharp-console-applications.svg" alt="Badge 3" style="width: 80px; height: 80px;">
-    <img src="https://www.kruizechristensen.com/images/badges/begin-python-coding-minecraft-makecode-azure-notebooks.svg" alt="Badge 4" style="width: 80px; height: 80px;">
+    <img src="https://www.kruizechristensen.com/images/badges/active-directory-domain-services.svg" alt="Active Directory Domain Services" style="width: 80px; height: 80px;>
+    <img src="https://www.kruizechristensen.com/images/badges/microsoft-esports-teacher-academy.svg" alt="Microsoft esports Teacher Academy (META)" style="width: 80px; height: 80px;">
+    <img src="https://www.kruizechristensen.com/images/badges/minecraft-python-coding-academy.svg" alt="Minecraft Python coding academy" style="width: 80px; height: 80px;">
+    <img src="https://www.kruizechristensen.com/images/badges/minecraft-block-coding-academy.svg" alt="Minecraft block coding academy" style="width: 80px; height: 80px;">
 </p>
 <p align='center'>
-    <img src="https://www.kruizechristensen.com/images/badges/active-directory-domain-services.svg" alt="Badge 5" style="width: 80px; height: 80px;">
-    <img src="https://www.kruizechristensen.com/images/badges/active-directory-domain-services.svg" alt="Badge 6" style="width: 80px; height: 80px;">
-    <img src="https://www.kruizechristensen.com/images/badges/active-directory-domain-services.svg" alt="Badge 7" style="width: 80px; height: 80px;">
-    <img src="https://www.kruizechristensen.com/images/badges/active-directory-domain-services.svg" alt="Badge 8" style="width: 80px; height: 80px;">
+    <img src="https://www.kruizechristensen.com/images/badges/minecraft-teacher-academy.svg" alt="Minecraft Education: Teacher Academy" style="width: 80px; height: 80px;">
+    <img src="https://www.kruizechristensen.com/images/badges/get-started-c-sharp-part-1.svg" alt="Write your first code using C# (Get started with C#, Part 1)" style="width: 80px; height: 80px;">
+    <img src="https://www.kruizechristensen.com/images/badges/get-started-c-sharp-part-2.svg" alt="Create and run simple C# console applications (Get started with C#, Part 2)" style="width: 80px; height: 80px;">
+    <img src="https://www.kruizechristensen.com/images/badges/add-logic-c-sharp-console-applications.svg" alt="Add logic to C# console applications (Get started with C#, Part 3)" style="width: 80px; height: 80px;">
+</p>
+<p align='center'>
+    <img src="https://www.kruizechristensen.com/images/badges/csharp-data.svg" alt="Work with variable data in C# console applications (Get started with C#, Part 4)" style="width: 80px; height: 80px;">
+    <img src="https://www.kruizechristensen.com/images/badges/get-started-c-sharp-part-5.svg" alt="Create methods in C# console applications (Get started with C#, Part 5)" style="width: 80px; height: 80px;">
+    <img src="https://www.kruizechristensen.com/images/badges/debug-c-sharp-console-applications.svg" alt="Debug C# console applications (Get started with C#, Part 6)" style="width: 80px; height: 80px;">
+</p>
+<!---
+<h3 align='center'>Modules</h3>
+<p align='center'>
+    <img src="https://www.kruizechristensen.com/images/badges/" alt="" style="width: 80px; height: 80px;>
+    <img src="https://www.kruizechristensen.com/images/badges/" alt="" style="width: 80px; height: 80px;">
+    <img src="https://www.kruizechristensen.com/images/badges/" alt="" style="width: 80px; height: 80px;">
+    <img src="https://www.kruizechristensen.com/images/badges/" alt="" style="width: 80px; height: 80px;">
 </p>
 
 <!---
