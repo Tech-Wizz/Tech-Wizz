@@ -66,7 +66,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://www.kruizechristensen.com/images/badges/begin-python-coding-minecraft-makecode-azure-notebooks.svg" alt="Badge 4" style="width: 80px; height: 80px;">
 </p>
 <p align='center'>
-    <img src="https://www.kruizechristensen.com/images/badges/active-directory-domain-services.svg" alt="Badge 5" style="width: 80px; height: 80px;">
+    <img src="https://www.kruizechristensen.com/images/KruizeChristensen.png" alt="Badge 5" style="width: 80px; height: 80px;">
     <img src="https://www.kruizechristensen.com/images/badges/active-directory-domain-services.svg" alt="Badge 6" style="width: 80px; height: 80px;">
     <img src="https://www.kruizechristensen.com/images/badges/active-directory-domain-services.svg" alt="Badge 7" style="width: 80px; height: 80px;">
     <img src="https://www.kruizechristensen.com/images/badges/active-directory-domain-services.svg" alt="Badge 8" style="width: 80px; height: 80px;">
