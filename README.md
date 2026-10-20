@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 <h2 align='center'>INTRO</h2>
 
 <p align='center'>
-    My name is Kruize Christensen and I am a Front-End Software Developer in Helena, MT with a background in IT. I'm passionate about using my technical skills to help contribute to the state of Montana. I strive to never stop learning or challenging myself and I bring a diverse perspective to everything I do. Self-driven, learner,  whose hobbies include camping, hunting, fishing, robotics, minecraft, nintendo, horse back riding, gardening and so on.
+    My name is Kruize Christensen and I am a System Administrator in Columbus, MT with a background in Computer Science. I'm passionate about using my technical skills to help contribute to the state of Montana. I strive to never stop learning or challenging myself and I bring a diverse perspective to everything I do. Self-driven, learner,  whose hobbies include camping, hunting, fishing, robotics, minecraft, nintendo, horse back riding, gardening and so on.
 </p>
 
 <h3 align='center'>PORTFOLIO<h3>
