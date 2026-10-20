@@ -75,6 +75,14 @@ You can click the Preview link to take a look at your changes.
     <img src="https://www.kruizechristensen.com/images/badges/debug-c-sharp-console-applications.svg" alt="Debug C# console applications (Get started with C#, Part 6)" style="width: 80px; height: 80px;">
     
 </p>
+
+<h2 align='center'>WEBSITES</h2>
+
+<p align='center'>
+    <a href='https://mountain-wizard.com' target='_blank' style='color: inherit; text-decoration: none;'><img src="https://img.shields.io/badge/Mountain%20Wizard%20Shop-5E8E3E?style=for-the-badge&logo=shopify&logoColor=white" alt="Mountain Wizard Shop Badge"></a>
+    <a href='https://montanawizard.com' target='_blank' style='color: inherit; text-decoration: none;'><img src="https://img.shields.io/badge/Montana%20Wizard%20Podcast-872EC4?style=for-the-badge&logo=applepodcasts&logoColor=white" alt="Montana Wizard Podcast Badge"></a>
+    <a href='https://montanastream.com' target='_blank' style='color: inherit; text-decoration: none;'><img src="https://img.shields.io/badge/Montana%20Stream-1F6FEB?style=for-the-badge&logo=webrtc&logoColor=white" alt="Montana Stream Badge"></a>
+</p>
 <!---
 <h3 align='center'>Modules</h3>
 <p align='center'>
