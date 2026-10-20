@@ -13,9 +13,12 @@ You can click the Preview link to take a look at your changes.
     My name is Kruize Christensen and I am a System Administrator in Columbus, MT with a background in Computer Science. I'm passionate about using my technical skills to help contribute to the state of Montana. I strive to never stop learning or challenging myself and I bring a diverse perspective to everything I do. Self-driven, learner,  whose hobbies include camping, hunting, fishing, robotics, minecraft, nintendo, horse back riding, gardening and so on.
 </p>
 
-<h3 align='center'>PORTFOLIO<h3>
+<h3 align='center'>WEBSITES</h3>
 <p align='center'>
-    <a href='https://www.davidthedev.tech'>kruizechristensen.com</a>
+    <a href='https://www.kruizechristensen.com' target='_blank' style='color: inherit; text-decoration: none;'><img src="https://img.shields.io/badge/Portfolio-2E3440?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Badge"></a>
+    <a href='https://mountain-wizard.com' target='_blank' style='color: inherit; text-decoration: none;'><img src="https://img.shields.io/badge/Mountain%20Wizard%20Shop-5E8E3E?style=for-the-badge&logo=shopify&logoColor=white" alt="Mountain Wizard Shop Badge"></a>
+    <a href='https://montanawizard.com' target='_blank' style='color: inherit; text-decoration: none;'><img src="https://img.shields.io/badge/Montana%20Wizard%20Podcast-872EC4?style=for-the-badge&logo=applepodcasts&logoColor=white" alt="Montana Wizard Podcast Badge"></a>
+    <a href='https://montanastream.com' target='_blank' style='color: inherit; text-decoration: none;'><img src="https://img.shields.io/badge/Montana%20Stream-1F6FEB?style=for-the-badge&logo=webrtc&logoColor=white" alt="Montana Stream Badge"></a>
 </p>
 
 <h3 align='center'>LANGUAGES</h3>
@@ -76,13 +79,6 @@ You can click the Preview link to take a look at your changes.
     
 </p>
 
-<h2 align='center'>WEBSITES</h2>
-
-<p align='center'>
-    <a href='https://mountain-wizard.com' target='_blank' style='color: inherit; text-decoration: none;'><img src="https://img.shields.io/badge/Mountain%20Wizard%20Shop-5E8E3E?style=for-the-badge&logo=shopify&logoColor=white" alt="Mountain Wizard Shop Badge"></a>
-    <a href='https://montanawizard.com' target='_blank' style='color: inherit; text-decoration: none;'><img src="https://img.shields.io/badge/Montana%20Wizard%20Podcast-872EC4?style=for-the-badge&logo=applepodcasts&logoColor=white" alt="Montana Wizard Podcast Badge"></a>
-    <a href='https://montanastream.com' target='_blank' style='color: inherit; text-decoration: none;'><img src="https://img.shields.io/badge/Montana%20Stream-1F6FEB?style=for-the-badge&logo=webrtc&logoColor=white" alt="Montana Stream Badge"></a>
-</p>
 <!---
 <h3 align='center'>Modules</h3>
 <p align='center'>
