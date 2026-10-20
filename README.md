@@ -61,18 +61,19 @@ You can click the Preview link to take a look at your changes.
 <h2 align='center'>BADGES</h2>
 <h3 align='center'>Learning Paths</h3>
 <p align='center'>
+    <img src="https://www.kruizechristensen.com/images/badges/endpoint-manager-fundamentals.svg" alt="Microsoft Intune Fundamentals" style="width: 80px; height: 80px;">
     <img src="https://www.kruizechristensen.com/images/badges/active-directory-domain-services.svg" alt="Active Directory Domain Services" style="width: 80px; height: 80px;">
     <img src="https://www.kruizechristensen.com/images/badges/microsoft-esports-teacher-academy.svg" alt="Microsoft esports Teacher Academy (META)" style="width: 80px; height: 80px;">
     <img src="https://www.kruizechristensen.com/images/badges/minecraft-python-coding-academy.svg" alt="Minecraft Python coding academy" style="width: 80px; height: 80px;">
-    <img src="https://www.kruizechristensen.com/images/badges/minecraft-block-coding-academy.svg" alt="Minecraft block coding academy" style="width: 80px; height: 80px;">
 </p>
 <p align='center'>
+    <img src="https://www.kruizechristensen.com/images/badges/minecraft-block-coding-academy.svg" alt="Minecraft block coding academy" style="width: 80px; height: 80px;">
     <img src="https://www.kruizechristensen.com/images/badges/minecraft-teacher-academy.svg" alt="Minecraft Education: Teacher Academy" style="width: 80px; height: 80px;">
     <img src="https://www.kruizechristensen.com/images/badges/get-started-c-sharp-part-1.svg" alt="Write your first code using C# (Get started with C#, Part 1)" style="width: 80px; height: 80px;">
     <img src="https://www.kruizechristensen.com/images/badges/get-started-c-sharp-part-2.svg" alt="Create and run simple C# console applications (Get started with C#, Part 2)" style="width: 80px; height: 80px;">
-    <img src="https://www.kruizechristensen.com/images/badges/add-logic-c-sharp-console-applications.svg" alt="Add logic to C# console applications (Get started with C#, Part 3)" style="width: 80px; height: 80px;">
 </p>
 <p align='center'>
+    <img src="https://www.kruizechristensen.com/images/badges/add-logic-c-sharp-console-applications.svg" alt="Add logic to C# console applications (Get started with C#, Part 3)" style="width: 80px; height: 80px;">
     <img src="https://www.kruizechristensen.com/images/badges/csharp-data.svg" alt="Work with variable data in C# console applications (Get started with C#, Part 4)" style="width: 80px; height: 80px;">
     <img src="https://www.kruizechristensen.com/images/badges/get-started-c-sharp-part-5.svg" alt="Create methods in C# console applications (Get started with C#, Part 5)" style="width: 80px; height: 80px;">
     <img src="https://www.kruizechristensen.com/images/badges/debug-c-sharp-console-applications.svg" alt="Debug C# console applications (Get started with C#, Part 6)" style="width: 80px; height: 80px;">
